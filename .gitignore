@@ -1,0 +1,19 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+
+# Compiled swap / temp files
+*.swp
+*.swo
+*.swn
+
+# Backup files
+*.bak
+
+# LazyVim cache
+lua/.cache
